@@ -1,0 +1,376 @@
+
+.fieldset{
+width:300px;
+height:343px;
+padding:0px;
+border:1px solid black;
+margin:none;
+}
+
+.img{
+width:300px;
+height:310px;
+}
+
+#websitelogo{
+width:130px;
+height:110px;
+border-radius:4px 4px;
+margin:15px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:44px;
+
+} 
+
+#body{
+margin:10px;
+}
+
+#head{
+background-color:#CCCCFF;
+border-radius:5px 5px;
+margin-top:10px;
+
+}
+
+#heading{
+display:inline-block;
+position:absolute;
+margin-top:2px;
+margin-left:312px;
+font-family:Bradley Hand ITC;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:4px;
+border-radius:5px 5px;
+font-size:20px;
+font-stretch:ultra-expanded;
+background-color:#3366ff;
+color:white;
+border:1px solid #660000;
+}
+
+
+
+.aa{
+ color:white;
+ font-size:25px;
+ font-family:arial black;
+ width:150px;
+ display:inline-block;
+ text-decoration:none;
+
+ background-color:purple ;
+ border-radius:4px 4px;
+ 
+ }
+ .aa:hover{
+ background-color:#e2def5;
+ color:#330033;
+ }
+
+
+#headerlogo{
+ width:800px;
+ height:140px;
+ margin-left:50px;
+ }
+
+#heading:hover{
+ background-color:#33ff00;
+color:black;
+ }
+
+#heading2
+{
+text-align:center;margin:3px; 
+font-family:Calibri;
+margin-top:0px;
+}
+
+#divheading{
+background-color:yellow;
+padding-top:1px;
+}
+
+
+#Marathi_Heading{
+color:#660000;
+font-family:arial;
+background-color:#66ff33;
+margin-top:1px;
+margin-bottom:2px;
+}
+
+#MenuDiv{
+background-color:#0066ff;
+padding-top:1px;
+}
+
+#iframe
+{
+width:90%;
+height:1200px;
+}
+
+
+#Menuda{
+background-color:#0066ff;
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+.aabb{
+ color:white;
+ font-size:25px;
+ display:inline-block;
+ font-family:arial black;
+ width:150px;
+ text-decoration:none;
+ background-color:purple ;
+ border-radius:4px 4px;
+}
+ 
+ .aabb:hover{
+ background-color:#e2def5;
+ color:#330033;
+ }
+
+.inline{
+margin:8px;;
+padding:none;
+margin-left:none;
+margin-right:none;
+
+}
+
+
+
+
+
+
+
+
+-----------------------------book--------------mainpage-----------------------------------------
+
+Arial Rounded MT Bold
+Bradley Hand ITC
+Calibri
+
+
+
+
+
+
+
+
+.title{
+background-color:#e857e8;
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+}
+
+.title{
+background-color:purple;
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+}
+
+#grid_div{
+display:grid;
+grid-template-columns:auto auto auto;
+grid-row-gap:23px;
+}
+
+
+.viewdownload{
+background-color:#8000ff;
+color:white;
+font-size:20px;
+font-family:sans-serif;
+text-decoration:none;
+padding-left:82px;
+padding-top:6px;
+padding-bottom:7px;
+padding-right:81px;
+}
+
+.viewdownload:hover{
+background-color:#ff6600;
+}
+
+.title1{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#3aa91f;
+}
+
+.title2{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#cc0000;
+}
+
+.title3{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#f156ab;
+}
+
+.title4{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#ffcc00;
+}
+
+
+.title5{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#2c5858;
+}
+
+
+
+
+
+.title6{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#0052a4;  
+}
+
+
+
+
+.title7{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#d76b00;
+}
+
+.title8{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#c8c806;
+}
+
+.title9{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#00bfbf;       
+}
+
+
+.title10{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#128e98;
+}
+
+
+.title11{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#202555;
+}
+
+.title12{
+display:inline-block;
+margin:1px;
+color:white;
+padding-left:7px;   
+padding-right:9px;
+padding-top:3px;
+padding-bottom:3px;
+border-radius:4px 4px 4px 4px;
+background-color:#43895f;
+}
+-----------------------Class webages-------------------------------
+
+
+
+
+

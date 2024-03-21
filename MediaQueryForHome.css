@@ -1,0 +1,717 @@
+@media (max-width:1980px)
+{
+ #heading{
+display:inline-block;
+position:absolute;
+margin-top:2px;
+margin-left:480px;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:4px;
+font-size:29px;
+}
+.aabb{
+ font-size:29px;
+ width:170px;
+ padding-top: 4px;
+  padding-bottom:4px;
+}
+#headerlogo{
+ width:1200px;
+ height:210px;
+ margin-left:65px;
+ }
+
+#websitelogo{
+width:170px;
+height:145px;
+margin-left:40px;
+
+} 
+}
+@media (max-width:1600px){
+#headerlogo{
+ width:900px;
+ height:180px;
+ margin-left:65px;
+ }
+
+ #heading{
+display:inline-block;
+position:absolute;
+margin-top:2px;
+margin-left:355px;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:4px;
+font-size:26px;
+}
+.aabb{
+ font-size:27px;
+ width:160px;
+ padding-top: 4px;
+  padding-bottom:4px;
+}
+
+}
+@media (max-width:1500px)
+{
+
+#Marathi_Heading{
+font-size:30px;
+}
+
+
+#heading2
+{
+font-size:27px;
+}
+
+#headerlogo{
+ width:1000px;
+ height:180px;
+ margin-left:50px;
+ }
+
+
+#websitelogo{
+width:150px;
+height:140px;
+margin-left:40px;
+
+} 
+
+
+#heading{
+display:inline-block;
+position:absolute;
+margin-top:2px;
+margin-left:380px;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:4px;
+font-size:27px;
+}
+
+#Menuda{
+padding-top:2px;
+display:grid;
+grid-template-columns:auto auto auto auto auto auto  ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+.aabb{
+ font-size:30px;
+ width:180px;
+ }
+
+
+
+}
+
+
+
+@media (max-width:1280px)
+{
+
+
+#Marathi_Heading{
+font-size:17px;
+}
+
+
+#heading2
+{
+font-size:16px;
+}
+
+#websitelogo{
+width:130px;
+height:110px;
+border-radius:4px 4px;
+margin:15px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:44px;
+
+} 
+
+#heading{
+display:inline-block;
+position:absolute;
+margin-top:2px;
+margin-left:312px;
+font-family:Bradley Hand ITC;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:4px;
+border-radius:5px 5px;
+font-size:20px;
+font-stretch:ultra-expanded;
+background-color:#3366ff;
+color:white;
+border:1px solid #660000;
+}
+
+#headerlogo{
+ width:800px;
+ height:140px;
+ margin-left:50px;
+ }
+
+
+#Menuda{
+background-color:#0066ff;
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+ .aabb{
+ color:white;
+ font-size:25px;
+ display:inline-block;
+ font-family:arial black;
+ width:150px;
+ text-decoration:none;
+ background-color:purple ;
+ border-radius:4px 4px;
+}
+
+
+}
+
+
+
+
+@media(max-width:1065px)
+{
+
+
+
+#headerlogo{
+width:700px;
+}
+
+
+
+
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:270px;
+font-size:18px;
+}
+
+
+
+}
+
+
+@media(max-width:992px)
+{
+
+#headerlogo{
+width:600px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:235px;
+font-size:16px;
+}
+
+}
+
+@media(max-width:1015px)
+{
+
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+}
+
+
+@media(max-width:866px)
+{
+
+#headerlogo{
+width:500px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:190px;
+font-size:15px;
+}
+}
+
+@media(max-width:763px)
+{
+#headerlogo{
+width:400px;
+height:108px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:150px;
+font-size:14px;
+}
+#websitelogo{
+width:110px;
+height:90px;
+} 
+
+}
+
+@media(max-width:679px)
+{
+#Menuda{
+display:grid;
+grid-template-columns:auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+}
+
+@media(max-width:679px)
+{
+#headerlogo{
+width:300px;
+height:100px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:125px;
+font-size:9px;
+}
+
+
+#websitelogo{
+width:90px;
+height:75px;
+border-radius:4px 4px;
+margin:13px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:40px;
+
+} 
+
+
+}
+
+@media(max-width:585px)
+{
+
+#Marathi_Heading{
+font-size:15px;
+}
+
+}
+
+@media(max-width:518px)
+{
+
+#headerlogo{
+width:200px;
+height:80px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:98px;
+font-size:6px;
+padding-left:20px;
+padding-right:15px;
+padding-bottom:2px;
+}
+
+
+#websitelogo{
+width:70px;
+height:60px;
+border-radius:4px 4px;
+margin:13px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:45px;
+
+} 
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:160px 160px auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+}
+
+@media(max-width:500px)
+{
+ .aabb{
+ font-size:24px;
+ width:145px;
+}
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:150px 150px auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+#Marathi_Heading
+{
+font-size:14px;
+}
+
+}
+
+@media(max-width:480px){
+
+ .aabb{
+ font-size:20px;
+ width:135px;
+ padding-top:3px;
+ padding-bottom:3px;
+}
+
+
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+#Marathi_Heading{
+font-size:10px;
+}
+#heading2{
+font-size:9px;
+margin:2px;
+margin-top:0px;
+}
+
+#divheading{
+padding-top:1px;
+}
+}
+
+
+@media(max-width:473px){
+
+ .aabb{
+ font-size:16px;
+ width:110px; 
+ padding-top:4px;
+ padding-bottom:4px;
+}
+
+
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+@media(max-width:400px){
+
+
+
+#headerlogo{
+width:146px;
+height:68px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:77px;
+font-size:6px;
+padding-left:10px;
+padding-right:9px;
+padding-bottom:0px;
+}
+
+
+#websitelogo{
+width:58x;
+height:53px;
+border-radius:4px 4px;
+margin:10px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:49px;
+
+}
+
+
+
+}
+
+@media(max-width:393px){
+
+ .aabb{
+ font-size:14px;
+ width:100px;
+ padding-top:3px;
+ padding-bottom:3px;
+}
+
+
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+
+@media(max-width:373px){
+
+ .aabb{
+ font-size:14px;
+ width:97px;
+ padding-top:3px;
+ padding-bottom:3px;
+}
+
+
+#Menuda{
+padding-top:1px;
+display:grid;
+grid-template-columns:auto auto auto ;
+grid-row-gap:1px;
+grid-column-gap:1px;
+}
+@media(max-width:360px){
+
+ .aabb{
+ font-size:12px;
+ width:90px;
+ padding-top:3px;
+ padding-bottom:3px;
+}
+
+
+@media(max-width:348px){
+
+
+#headerlogo{
+width:135px;
+height:68px;
+margin-left:38px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:68px;
+font-size:5px;
+padding-left:10px;
+padding-right:9px;
+padding-bottom:0px;
+}
+
+
+#websitelogo{
+width:53x;
+height:51px;
+border-radius:4px 4px;
+margin:10px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:42px;
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media(max-width:335px){
+
+ .aabb{
+ font-size:11px;
+ width:80px;
+ padding-top:3px;
+ padding-bottom:3px;
+}
+
+
+
+@media(max-width:320px){
+
+
+#headerlogo{
+width:133px;
+height:68px;
+margin-left:14px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:46px;
+font-size:5px;
+padding-left:10px;
+padding-right:9px;
+padding-bottom:0px;
+}
+
+
+#websitelogo{
+width:51x;
+height:51px;
+border-radius:4px 4px;
+margin:10px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:22px;
+
+}
+
+
+
+
+}
+
+
+
+@media(max-width:308px){
+
+ .aabb{
+ font-size:10px;
+ width:75px;
+}
+}
+
+@media(max-width:289px){
+
+ .aabb{
+ font-size:8px;
+ width:65px;
+ 
+ padding-top:4px;
+ padding-bottom:4px;
+}
+}
+
+
+@media(max-width:320px){
+
+
+#headerlogo{
+width:100px;
+height:65px;
+margin-left:8px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:25px;
+font-size:4px;
+padding-left:10px;
+padding-right:9px;
+padding-bottom:0px;
+}
+
+
+#websitelogo{
+width:45x;
+height:48px;
+border-radius:4px 4px;
+margin:10px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:14px;
+
+}
+
+#Marathi_Heading
+{
+font-size:8px;
+}
+
+}
+
+
+@media(max-width:264px){
+
+ .aabb{
+ font-size:6px;
+ width:55px;
+ padding-top:4px;
+ padding-bottom:4px;
+}
+#Marathi_Heading
+{
+font-size:8px;
+}
+
+}
+
+@media(max-width:228px){
+
+ .aabb{
+ font-size:7px;
+ width:45px;
+ 
+ padding-top:4px;
+ padding-bottom:4px;
+}
+
+
+#headerlogo{
+width:72px;
+height:65px;
+margin-left:8px;
+}
+#heading{
+display:inline-block;
+position:absolute;
+margin-left:17px;
+font-size:3px;
+padding-left:8px;
+padding-right:7px;
+padding-bottom:0px;
+}
+
+
+#websitelogo{
+width:25x;
+height:40px;
+border-radius:4px 4px;
+margin:10px;
+box-shadow:2px 2px 3px 3px #ebebeb;
+background-color:blue;
+margin-left:8px;
+
+}
+
+
+
+}
+
+
+
+
+
